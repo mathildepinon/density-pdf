@@ -1,0 +1,7 @@
+**/__pycache__
+**/pytest_cache
+**/*.egg
+**/*.egg-info
+**/.ipynb_checkpoints
+**/*.png
+**/plots
